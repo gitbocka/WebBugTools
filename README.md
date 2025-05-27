@@ -31,5 +31,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ``` 
-![image](https://github.com/user-attachments/assets/bd1e8cd1-3b0c-402a-ab0f-216254c81527)
-![image](https://github.com/user-attachments/assets/46190d2d-d133-4dfa-a3fa-6685a6b2f65c)
